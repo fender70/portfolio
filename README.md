@@ -158,8 +158,8 @@ While this is a personal portfolio, contributions are welcome for:
 ## 📞 Contact
 
 - **Portfolio**: [cedriczarate.com](https://cedriczarate.com)
-- **GitHub**: [@cedriczarate](https://github.com/cedriczarate)
-- **LinkedIn**: [Cedric Zarate](https://linkedin.com/in/cedriczarate)
+- **GitHub**: [@cedriczarate](https://github.com/fender70)
+- **LinkedIn**: [Cedric Zarate](https://linkedin.com/in/cedric-zarate-17b735226)
 - **Email**: [Contact through portfolio](https://cedriczarate.com/contact)
 
 ## 🙏 Acknowledgments

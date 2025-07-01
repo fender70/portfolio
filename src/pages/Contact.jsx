@@ -15,19 +15,19 @@ const Contact = () => {
   const socialLinks = [
     {
       name: 'GitHub',
-      url: 'https://github.com/cedriczarate',
+      url: 'https://github.com/fender70',
       icon: Github,
       color: 'hover:text-gray-900 dark:hover:text-white'
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/cedriczarate',
+      url: 'https://linkedin.com/in/cedric-zarate-17b735226',
       icon: Linkedin,
       color: 'hover:text-blue-600'
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/cedriczarate',
+      url: 'https://x.com/cedriczarate',
       icon: Twitter,
       color: 'hover:text-blue-400'
     }
@@ -37,14 +37,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'cedric.zarate@example.com',
-      link: 'mailto:cedric.zarate@example.com'
+      value: 'cedriczarate2005@gmail.com',
+      link: 'mailto:cedriczarate2005@gmail.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '+1 (925) 317-4436',
+      link: 'tel:+9253174436'
     },
     {
       icon: MapPin,
