@@ -1,5 +1,7 @@
 # Cedric Zarate - Personal Portfolio
 
+[🌐 **View the live site at cedzarate.com**](https://cedzarate.com)
+
 A modern, responsive portfolio website showcasing my work as a Software Engineer & AI Specialist. Built with React, Tailwind CSS v4, and Framer Motion for smooth animations.
 
 ![Portfolio Preview](https://img.shields.io/badge/React-19.1.0-blue?logo=react)
@@ -114,63 +116,3 @@ The portfolio features a sophisticated dark mode implementation:
 ### Adding New Pages
 1. Create a new component in `src/pages/`
 2. Add the route in `App.jsx`
-3. Update navigation in `Navbar.jsx`
-
-### Modifying Styles
-- Global styles: Edit `src/index.css`
-- Component styles: Use Tailwind classes
-- Custom CSS: Add to `src/index.css`
-
-### Updating Content
-- Personal information: Update components directly
-- Projects: Modify the projects array in `Projects.jsx`
-- Contact info: Update `Contact.jsx`
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Connect your GitHub repository to Vercel
-2. Vercel will automatically detect the Vite configuration
-3. Deploy with one click
-
-### Netlify
-1. Build the project: `npm run build`
-2. Upload the `dist` folder to Netlify
-3. Configure build settings if needed
-
-### GitHub Pages
-1. Add `gh-pages` dependency
-2. Configure build script
-3. Deploy using GitHub Actions
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-While this is a personal portfolio, contributions are welcome for:
-- Bug fixes
-- Performance improvements
-- Accessibility enhancements
-- Documentation updates
-
-## 📞 Contact
-
-- **Portfolio**: [cedzarate.com](https://cedzarate.com)
-- **GitHub**: [@cedriczarate](https://github.com/fender70)
-- **LinkedIn**: [Cedric Zarate](https://linkedin.com/in/cedric-zarate-17b735226)
-- **Email**: cedriczarate2005@gmail.com
-- **Phone**: +1 (925) 317-4436
-
-## 🙏 Acknowledgments
-
-- **Tailwind CSS** for the utility-first CSS framework
-- **Framer Motion** for smooth animations
-- **Lucide** for beautiful icons
-- **Vite** for the fast build tool
-- **React** for the amazing framework
-
----
-
-**Built with ❤️ by Cedric Zarate** 

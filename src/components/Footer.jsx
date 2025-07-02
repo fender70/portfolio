@@ -3,17 +3,17 @@ import { Github, Linkedin, Twitter } from 'lucide-react'
 const socials = [
   {
     name: 'GitHub',
-    url: 'https://github.com/cedriczarate',
+    url: 'https://github.com/fender70',
     icon: Github,
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/cedriczarate',
+    url: 'https://linkedin.com/in/cedric-zarate-17b735226',
     icon: Linkedin,
   },
   {
     name: 'Twitter',
-    url: 'https://twitter.com/cedriczarate',
+    url: 'https://x.com/cedzarate',
     icon: Twitter,
   },
 ]
@@ -39,7 +39,7 @@ const Footer = () => (
         ))}
       </div>
       <a
-        href="https://github.com/cedriczarate/portfolio"
+        href="https://github.com/fender70/portfolio"
         target="_blank"
         rel="noopener noreferrer"
         className="text-sm text-gray-500 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors duration-200 font-medium"
