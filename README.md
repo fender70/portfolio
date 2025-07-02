@@ -157,10 +157,11 @@ While this is a personal portfolio, contributions are welcome for:
 
 ## 📞 Contact
 
-- **Portfolio**: [cedriczarate.com](https://cedriczarate.com)
+- **Portfolio**: [cedzarate.com](https://cedzarate.com)
 - **GitHub**: [@cedriczarate](https://github.com/fender70)
 - **LinkedIn**: [Cedric Zarate](https://linkedin.com/in/cedric-zarate-17b735226)
-- **Email**: [Contact through portfolio](https://cedriczarate.com/contact)
+- **Email**: cedriczarate2005@gmail.com
+- **Phone**: +1 (925) 317-4436
 
 ## 🙏 Acknowledgments
 

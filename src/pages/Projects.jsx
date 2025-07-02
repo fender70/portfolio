@@ -55,7 +55,7 @@ const Projects = () => {
         'SEO optimized'
       ],
       github: 'https://github.com/cedriczarate/portfolio',
-      live: 'https://cedriczarate.com'
+      live: 'https://cedzarate.com'
     }
   ]
 
