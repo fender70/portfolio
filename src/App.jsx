@@ -40,10 +40,6 @@ function App() {
       <div className="min-h-screen bg-white transition-colors duration-300">
         <Navbar isDark={isDark} setIsDark={setIsDark} />
         <main>
-          {/* Dark mode test indicator */}
-          <div className="fixed top-20 right-4 z-40 p-2 bg-red-500 text-white text-xs rounded">
-            Dark Mode: {isDark ? 'ON' : 'OFF'}
-          </div>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
