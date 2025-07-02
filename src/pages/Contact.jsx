@@ -27,7 +27,7 @@ const Contact = () => {
     },
     {
       name: 'Twitter',
-      url: 'https://x.com/cedriczarate',
+      url: 'https://x.com/cedzarate',
       icon: Twitter,
       color: 'hover:text-blue-400'
     }
